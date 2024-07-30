@@ -1,0 +1,9 @@
+[package]
+name = "lock-in"
+version = "0.1.0"
+edition = "2021"
+description = "A CLI timer app with a 'Locked In' banner"
+license = "MIT"
+
+[dependencies]
+chrono = "0.4"
