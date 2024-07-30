@@ -2,8 +2,10 @@
 name = "lock-in"
 version = "0.1.0"
 edition = "2021"
-description = "A CLI timer app with a 'Locked In' banner"
+author = "Nico Estrada"
+description = "A CLI timer to stay locked in what you're working on."
 license = "MIT"
+repository = "https://github.com/nicoestrada/locked_in"
 
 [dependencies]
 chrono = "0.4"
