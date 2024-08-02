@@ -1,9 +1,9 @@
 [package]
 name = "lock-in"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 author = "Nico Estrada"
-description = "A CLI timer to stay locked in what you're working on."
+description = "A CLI tool to stay locked in what you're working on."
 license = "MIT"
 repository = "https://github.com/nicoestrada/locked_in"
 
